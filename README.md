@@ -25,7 +25,7 @@ A modern survey and polling platform with conditional logic, question branching,
 
 ### Installation:
 --------
-#### Clone the repository:
+#### *Clone the repository:*
 HTTPS:
 ```
 git clone https://github.com/krosengr4/inkwire-query.git
@@ -35,13 +35,13 @@ SSH:
 git clone git@github.com:krosengr4/inkwire-query.git
 ```
 
-#### Install dependencies:
+#### *Install dependencies:*
 - go mod download
 
-#### Set up environment variables:
+#### *Set up environment variables:*
 - cp .env.example .env
 
-#### Start the server:
+#### *Start the server:*
 ```
 go run cmd/server/main.go
 ```
