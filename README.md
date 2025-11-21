@@ -24,7 +24,7 @@ A modern survey and polling platform with conditional logic, question branching,
 - PostgreSQL 14+
 
 ### Installation:
-_____
+--------
 #### Clone the repository:
 HTTPS:
 ```
